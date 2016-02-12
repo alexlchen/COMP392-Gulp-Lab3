@@ -1,0 +1,25 @@
+{
+  "name": "comp392-lab3",
+  "authors": [
+    "alexlchen"
+  ],
+  "description": "COMP392-gulp-Lab3 forGulp Automation",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/alexlchen/COMP392-Gulp-Lab3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
